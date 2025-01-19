@@ -12,6 +12,11 @@
         "timestamp": "2025-01-19T16:48:07.436339",
         "message": "Please choose an option:",
         "is_bot": true
+      },
+      {
+        "timestamp": "2025-01-19T16:48:10.058052",
+        "message": "Please enter your new username:",
+        "is_bot": true
       }
     ]
   }
