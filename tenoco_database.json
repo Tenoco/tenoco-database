@@ -47,12 +47,11 @@
     }
   ],
   "6341715879": {
-    "messages": [
-      {
-        "timestamp": "2025-01-19T16:44:28.859496",
-        "message": "/start",
-        "is_bot": false
-      }
-    ]
+    "user_id": 6341715879,
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "created_at": "2025-01-19T16:44:32.928108",
+    "last_updated": "2025-01-19T16:44:32.928246"
   }
 }
