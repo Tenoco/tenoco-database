@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "john_doe",
+      "telegram_id": 123456789,
+      "firstname": "John",
+      "lastname": "Doe",
+      "account_creation_date": "2025-01-01",
+      "last_update_date": "2025-01-18",
+      "access_level": "user"
+    },
+    {
+      "username": "jane_smith",
+      "telegram_id": 987654321,
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "account_creation_date": "2025-01-10",
+      "last_update_date": "2025-01-15",
+      "access_level": "admin"
+    },
+    {
+      "username": "mike_lee",
+      "telegram_id": 123123123,
+      "firstname": "Mike",
+      "lastname": "Lee",
+      "account_creation_date": "2025-01-05",
+      "last_update_date": "2025-01-12",
+      "access_level": "moderator"
+    },
+    {
+      "username": "anna_brown",
+      "telegram_id": 456456456,
+      "firstname": "Anna",
+      "lastname": "Brown",
+      "account_creation_date": "2025-01-03",
+      "last_update_date": "2025-01-10",
+      "access_level": "user"
+    },
+    {
+      "username": "charles_black",
+      "telegram_id": 789789789,
+      "firstname": "Charles",
+      "lastname": "Black",
+      "account_creation_date": "2025-01-08",
+      "last_update_date": "2025-01-18",
+      "access_level": "superadmin"
+    }
+  ]
+}
