@@ -17,6 +17,11 @@
         "timestamp": "2025-01-19T16:48:10.058052",
         "message": "Please enter your new username:",
         "is_bot": true
+      },
+      {
+        "timestamp": "2025-01-19T16:48:14.036790",
+        "message": "Tenoco",
+        "is_bot": false
       }
     ]
   }
