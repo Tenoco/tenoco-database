@@ -58,6 +58,11 @@
         "timestamp": "2025-01-19T16:44:43.025029",
         "message": "Please choose an option:",
         "is_bot": true
+      },
+      {
+        "timestamp": "2025-01-19T16:44:50.355271",
+        "message": "User information not found. Please start by sending the /start command.",
+        "is_bot": true
       }
     ]
   }
