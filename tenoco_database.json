@@ -58,6 +58,11 @@
         "timestamp": "2025-01-19T16:44:56.436370",
         "message": "Please choose an option:",
         "is_bot": true
+      },
+      {
+        "timestamp": "2025-01-19T16:45:00.228727",
+        "message": "/start",
+        "is_bot": false
       }
     ]
   }
