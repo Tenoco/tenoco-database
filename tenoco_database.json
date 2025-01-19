@@ -52,6 +52,13 @@
     "first_name": "",
     "last_name": "",
     "created_at": "2025-01-19T16:44:32.928108",
-    "last_updated": "2025-01-19T16:45:04.358466"
+    "last_updated": "2025-01-19T16:45:04.358466",
+    "messages": [
+      {
+        "timestamp": "2025-01-19T16:45:07.209279",
+        "message": "Welcome back, !",
+        "is_bot": true
+      }
+    ]
   }
 }
