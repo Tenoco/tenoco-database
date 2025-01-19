@@ -6,13 +6,6 @@
     "first_name": "",
     "last_name": "",
     "created_at": "2025-01-19T16:47:57.358628",
-    "last_updated": "2025-01-19T16:47:57.358783",
-    "messages": [
-      {
-        "timestamp": "2025-01-19T16:48:00.449667",
-        "message": "Welcome back!",
-        "is_bot": true
-      }
-    ]
+    "last_updated": "2025-01-19T16:48:04.357778"
   }
 }
