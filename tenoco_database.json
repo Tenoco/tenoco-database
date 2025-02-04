@@ -2,9 +2,9 @@
   "6341715879": {
     "messages": [
       {
-        "timestamp": "2025-02-04T17:32:40.060818",
-        "message": "Tenoco",
-        "is_bot": false
+        "timestamp": "2025-02-04T17:32:43.250395",
+        "message": "Great! Now, please enter your email.",
+        "is_bot": true
       }
     ]
   }
