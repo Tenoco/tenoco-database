@@ -2,9 +2,9 @@
   "6341715879": {
     "messages": [
       {
-        "timestamp": "2025-02-04T17:41:47.634620",
-        "message": "It seems you're new here. Please start by sending the /start command.",
-        "is_bot": true
+        "timestamp": "2025-02-04T17:41:51.962117",
+        "message": "/start",
+        "is_bot": false
       }
     ]
   }
