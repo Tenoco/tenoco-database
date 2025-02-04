@@ -2,9 +2,9 @@
   "6341715879": {
     "messages": [
       {
-        "timestamp": "2025-02-04T17:32:31.472787",
-        "message": "/start",
-        "is_bot": false
+        "timestamp": "2025-02-04T17:32:34.723383",
+        "message": "\ud83d\udc4b Welcome to PJDev Bot!\n\nPJDev Bot is your smart companion for seamless communication with the T\u20acN0C0 servers. \ud83d\ude80\n\nWhether you're sending requests, managing data, or monitoring your tasks, PJDev Bot is here to help! \ud83d\udee0\ufe0f\n\nWith quick commands, real-time responses, and personalized support, you'll stay connected and in control of your projects. \ud83c\udf10\ud83d\udcbb\n\nLet PJDev Bot handle the heavy lifting, so you can focus on building great things! \ud83d\udca1\u2728",
+        "is_bot": true
       }
     ]
   }
