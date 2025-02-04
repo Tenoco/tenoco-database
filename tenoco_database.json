@@ -1,26 +1,9 @@
 {
-  "users": [],
   "6341715879": {
-    "user_id": 6341715879,
-    "username": "",
-    "first_name": "",
-    "last_name": "",
-    "created_at": "2025-01-19T16:47:57.358628",
-    "last_updated": "2025-01-19T16:48:04.357778",
     "messages": [
       {
-        "timestamp": "2025-01-19T16:48:07.436339",
-        "message": "Please choose an option:",
-        "is_bot": true
-      },
-      {
-        "timestamp": "2025-01-19T16:48:10.058052",
-        "message": "Please enter your new username:",
-        "is_bot": true
-      },
-      {
-        "timestamp": "2025-01-19T16:48:14.036790",
-        "message": "Tenoco",
+        "timestamp": "2025-02-04T17:18:11.971953",
+        "message": "/start",
         "is_bot": false
       }
     ]
