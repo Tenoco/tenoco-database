@@ -1,3 +1,11 @@
 {
-  "users": []
+  "6341715879": {
+    "messages": [
+      {
+        "timestamp": "2025-02-04T17:32:31.472787",
+        "message": "/start",
+        "is_bot": false
+      }
+    ]
+  }
 }
