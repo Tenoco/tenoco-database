@@ -1,11 +1,9 @@
 {
   "6341715879": {
-    "messages": [
-      {
-        "timestamp": "2025-02-04T17:29:48.677727",
-        "message": "tenocostudio0@gmail.com",
-        "is_bot": false
-      }
-    ]
+    "user_id": 6341715879,
+    "username": "Tenoco",
+    "email": "tenocostudio0@gmail.com",
+    "created_at": "2025-02-04T17:29:51.223614",
+    "last_updated": "2025-02-04T17:29:51.223614"
   }
 }
