@@ -2,9 +2,9 @@
   "6341715879": {
     "messages": [
       {
-        "timestamp": "2025-02-04T17:18:50.875282",
-        "message": "Please choose an option:",
-        "is_bot": true
+        "timestamp": "2025-02-04T17:29:30.284394",
+        "message": "/start",
+        "is_bot": false
       }
     ]
   }
