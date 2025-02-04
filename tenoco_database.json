@@ -2,8 +2,8 @@
   "6341715879": {
     "messages": [
       {
-        "timestamp": "2025-02-04T17:41:58.063996",
-        "message": "To get started, please share your preferred username and email.",
+        "timestamp": "2025-02-04T17:42:01.806583",
+        "message": "It seems you're new here. Please start by sending the /start command.",
         "is_bot": true
       }
     ]
