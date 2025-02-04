@@ -2,8 +2,8 @@
   "6341715879": {
     "messages": [
       {
-        "timestamp": "2025-02-04T17:18:47.491181",
-        "message": "User information not found. Please start by sending the /start command.",
+        "timestamp": "2025-02-04T17:18:50.875282",
+        "message": "Please choose an option:",
         "is_bot": true
       }
     ]
